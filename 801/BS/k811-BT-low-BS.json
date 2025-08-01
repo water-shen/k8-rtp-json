@@ -1,0 +1,297 @@
+{
+
+	"BaseData":{
+		"ProjectID": "GS12SB-94",
+		"ModuleID": "GS12SB-94-BS",
+		"GameType": 1,
+		"StripType": 0,
+		"GameTypeDetail": 15,
+		"BonusList":["GS12SB-94-BS"]
+	},
+  "StripTable": {
+		"Strip_1":{
+			"Wieght":[],
+			"Reel":[8,9,4,8,9,1,3,5,8,5,7,7,4,1,10,3,10,10,11,10,11,6,3,9,6,10,11,5,4,1,11,8,11,8,7,5,3,10,11,4,6,6,2,2,2,2,2,9,5,6,11,6,10,7,9
+]
+		},
+		"Strip_2":{
+			"Wieght":[],
+			"Reel":[10,1,5,6,5,0,3,0,8,9,1,11,9,5,4,6,8,8,9,4,5,0,6,4,7,6,4,8,9,8,8,6,7,7,8,6,7,8,7,3,6,7,1,9,4,4,9,7,9,8,11,9,9,11,2,2,2,2,2,7,10,3
+]
+		},
+		"Strip_3":{
+			"Wieght":[],
+			"Reel":[2,2,2,2,2,11,7,10,5,7,10,5,10,4,5,7,0,10,8,5,10,1,8,9,7,9,5,0,6,11,8,3,8,1,11,5,7,10,9,3,11,9,0,4,4,5,9,10,1,11,11,7,6,10,11,5,3,11,7,0,6
+
+]
+		},
+		"Strip_4":{
+			"Wieght":[],
+			"Reel":[10,4,4,4,10,11,4,6,10,11,8,11,0,5,3,11,6,7,10,6,4,4,10,11,10,3,9,3,8,0,9,8,10,7,3,6,4,8,7,9,0,7,11,4,6,7,9,8,7,0,9,5,3,11,4,8,3,2,2,2,2,2
+]
+		},
+		"Strip_5":{
+			"Wieght":[],
+			"Reel":[5,4,11,0,4,5,5,11,6,8,7,4,11,5,7,2,2,2,2,5,10,4,7,5,11,9,8,9,6,8,11,0,5,9,4,4,7,8,9,3,7,10,3,5,6,7,3,0,6,4,8,6,8,3,0,3,7,3,10,5,5,6,3,5,9,7,9
+]
+		}
+  },
+
+  "Icons": {
+    "Icon1": {
+      "IconID": 0,
+      "IsWildSubstitute": false,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 1,
+      "IconPays": [
+        0,
+        0,
+        0,
+        0,
+        0 
+      ]
+    },
+
+    "Icon2": {
+      "IconID": 1,
+      "IsWildSubstitute": false,      
+	  
+	  "PickBonusInfo": [
+		{
+			"BonusID": 			"GS12SB-94-BS",
+			"BonusTimes": 		[0,0,1,0,0]
+		}
+	  ],
+	  "PickBonusType2":		 [8,9,10,11,12,13,14,15,16,17,18,19,20],
+	  "PickBonusType2Weight":[7,13,30,25,20,22,20,19,17,13,9,8,8],
+	  "PickBonusType2Amount":6,
+	  "PickMultiplier":		 [1,2,3,4,5,6,7,8],
+	  "PickMultiplierWeight":[10,22,25,20,17,11,10,9],
+	  "PickMultiplierAmount":6,
+	  
+      "PayType": 3,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        50,
+        0,
+        0
+      ]
+    },
+    "Icon3": {
+      "IconID": 2,
+      "IsWildSubstitute": false,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 6,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        10,
+        50,
+        200,
+        1000
+      ]
+    },
+    "Icon4": {
+      "IconID": 3,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        40,
+        200,
+        750
+      ]
+    },
+    "Icon5": {
+      "IconID": 4,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        10,
+        100,
+        500
+      ]
+    },
+    "Icon6": {
+      "IconID": 5,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        10,
+        60,
+        400
+      ]
+    },
+    "Icon7": {
+      "IconID": 6,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        10,
+        60,
+        300
+      ]
+    },
+    "Icon8": {
+      "IconID": 7,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        5,
+        40,
+        200
+      ]
+    },
+    "Icon9": {
+      "IconID": 8,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        5,
+        40,
+        200
+      ]
+    },
+    "Icon10": {
+      "IconID": 9,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        5,
+        35,
+        200
+      ]
+    },
+    "Icon11": {
+      "IconID": 10,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        5,
+        25,
+        100
+      ]
+    },
+	"Icon12": {
+      "IconID": 11,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        5,
+        25,
+        100
+      ]
+    }
+  },
+	"SpecialRule":{
+	}
+
+}

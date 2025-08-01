@@ -1,0 +1,326 @@
+{
+
+	"BaseData":{
+		"ProjectID": "GS13FG-98",
+		"ModuleID": "GS13FG-98-BS",
+		"GameType": 1,
+		"StripType": 0,
+		"GameTypeDetail": 15,
+		"BonusList":["GS13FG-98-BS"]
+	},
+  "StripTable": {
+		"Strip_1":{
+			"Wieght":[],
+			"Reel":[11,7,8,6,4,7,9,12,9,6,1,11,9,7,9,5,11,2,5,8,11,1,9,8,6,5,1,10,3,8,2,7,8,1,9,12,9,9,1,10,11,11,11,6,7,9,12,9,6,1,11,9,10,12,11,2,11,11,7,9,12,9,5,1,11,9,10,12,11,6,11,1,9,12,8,4,3,8,11,9,10,12,11,2,11,11,7,9,12,9,5,1,11,4,10,12,11,4,11,1,9,12,8,6,3,8,11,4,9,3
+]
+		},
+		"Strip_2":{
+			"Wieght":[],
+			"Reel":[12,3,6,7,6,4,11,7,12,5,2,12,10,5,12,6,9,9,2,9,1,0,4,10,12,1,12,10,2,10,12,5,6,1,11,7,12,8,8,9,10,8,8,5,4,11,7,12,5,2,12,8,8,12,10,1,8,8,4,11,7,12,5,8,9,10,8,12,1,5,8,8,11,7,8,5,2,10,12,8,8,12,10,1,8,8,4,11,7,12,5,2,12,8,8,12,8,5,8,8,11,7,8,5,2,10,12,3,11,0,0,0,12,11,4,1,11,3,10,8,6,12,8,4,9,5,11,10,5,10,12,3,6,3
+]
+		},
+		"Strip_3":{
+			"Wieght":[],
+			"Reel":[12,8,11,2,4,11,10,2,7,3,1,11,11,6,8,7,4,12,8,9,6,9,8,12,5,1,12,8,10,10,10,1,10,11,10,2,7,8,12,11,9,7,7,5,11,10,2,7,3,1,11,8,12,11,9,1,7,7,11,10,2,7,5,12,11,9,12,1,9,6,7,7,10,2,8,11,10,10,12,8,12,11,9,1,7,7,11,10,2,7,3,1,8,8,12,9,1,6,7,7,10,2,8,11,10,10,12,0,0,0,0,0,4,9,5,3,10,9,6,12,4,10,6,8,3,11,5,8,8
+]
+		},
+		"Strip_4":{
+			"Wieght":[],
+			"Reel":[10,12,7,2,6,10,9,7,4,7,9,12,5,2,6,10,9,11,8,8,6,10,7,2,6,5,10,8,3,10,10,12,7,4,9,7,4,9,11,10,12,12,12,7,10,9,7,4,7,9,12,9,11,10,12,12,12,12,10,9,7,4,7,11,10,12,11,10,12,7,0,0,9,7,8,7,3,10,10,9,11,10,12,12,12,0,10,9,7,4,7,9,12,9,11,10,12,7,12,12,9,7,8,7,3,10,10,5,10,0,0,0,0,0,0,0
+]
+		},
+		"Strip_5":{
+			"Wieght":[],
+			"Reel":[10,11,0,10,10,10,7,11,10,6,10,7,5,7,2,9,8,4,8,12,12,0,11,9,12,5,7,10,8,9,10,3,11,10,8,11,4,8,12,9,11,9,9,6,10,7,11,10,6,10,7,8,12,9,11,9,9,9,10,7,11,10,6,12,9,11,12,9,11,6,9,9,7,11,8,6,8,9,10,8,12,9,11,9,9,9,10,7,11,10,6,10,7,8,12,9,11,6,9,9,7,11,8,6,8,9,10,0,0,0,0,0,0,0,0,0,0,0,0,6,12,10,9,2,8,8,12,3,3,3
+]
+		}
+  },
+
+
+  "Icons": {
+    "Icon1": {
+      "IconID": 0,
+      "IsWildSubstitute": false,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 1,
+      "IconPays": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "Icon2": {
+      "IconID": 1,
+      "IsWildSubstitute": false,      
+	  
+	  "PickBonusInfo": [
+		{
+			"BonusID": 			"GS13FG-98-BS",
+			"BonusTimes": 		[0,0,1,0,0]
+		}
+	  ],
+	  "PickBonusType2":		 [10,11,12,13,14,15,16,17,18,19,20],
+	  "PickBonusType2Weight":[12,12,14,14,14,12,10,6,4,1,1],
+	  "PickBonusType2Amount":6,
+	  "PickMultiplier":		 [0,1,2,3,4,5],
+	  "PickMultiplierContent":[
+	    {
+	    "0":[2,2,3,4,4],
+	    "1":[2,2,3,3,4],
+	    "2":[2,2,3,4,4],
+	    "3":[2,2,2,3,4],
+	    "4":[2,3,3,4,4],
+	    "5":[3,3,3,4,4]
+	    }
+	    ],
+	  "PickMultiplierWeight":[15,15,15,15,15,25],
+	  "PickMultiplierAmount":6,
+	  
+      "PayType": 3,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 0,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        50,
+        0,
+        0
+      ]
+    },
+    "Icon3": {
+      "IconID": 2,
+      "IsWildSubstitute": false,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 6,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        25,
+        125,
+        625
+      ]
+    },
+    "Icon4": {
+      "IconID": 3,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        50,
+        150,
+        500
+      ]
+    },
+    "Icon5": {
+      "IconID": 4,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        25,
+        75,
+        200
+      ]
+    },
+    "Icon6": {
+      "IconID": 5,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        20,
+        50,
+        150
+      ]
+    },
+    "Icon7": {
+      "IconID": 6,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        20,
+        50,
+        150
+      ]
+    },
+    "Icon8": {
+      "IconID": 7,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        15,
+        25,
+        100
+      ]
+    },
+    "Icon9": {
+      "IconID": 8,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        15,
+        25,
+        100
+      ]
+    },
+    "Icon10": {
+      "IconID": 9,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        10,
+        20,
+        75
+      ]
+    },
+    "Icon11": {
+      "IconID": 10,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        10,
+        20,
+        75
+      ]
+    },
+	"Icon12": {
+      "IconID": 11,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        5,
+        15,
+        50
+      ]
+    },
+	"Icon13": {
+      "IconID": 12,
+      "IsWildSubstitute": true,
+      
+      "BonusID": "",
+      "BonusTimes": [],
+      "PayType": 0,
+	  "MultiplierType": 0,
+      "MultiplierAcc": 1,
+      "MultiplierWin": [1],
+	  "MultiplierWeight": [1],
+      "WildType": 0,
+      "IconPays": [
+        0,
+        0,
+        5,
+        15,
+        50
+      ]
+    }	
+  },
+	"SpecialRule":{
+	}
+  
+}

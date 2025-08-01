@@ -1,0 +1,409 @@
+{
+
+	"BaseData":{
+		"ProjectID": "WLS-00029CH",
+		"ModuleID": "WLS-00029CH-85-FS",
+		"GameType": 0,
+		"StripType": 0,
+		"GameTypeDetail": 3,
+		"BonusList":[]
+	},
+  "StripTable": {
+		"Strip_1":{
+			"Wieght":[],
+			"Reel":[7, 2, 7, 2, 4, 7, 3, 6, 5, 2, 8, 9, 2, 7, 6, 4, 7, 9, 8, 0, 3, 8, 5, 2, 4, 9, 3, 7, 7, 3, 4, 7, 3, 4, 8, 7, 9, 3, 9, 4, 6, 4, 9, 7, 8, 9, 3, 8]
+		},
+		"Strip_2":{
+			"Wieght":[],
+			"Reel":[9, 6, 8, 9, 2, 6, 4, 5, 9, 0, 5, 8, 3, 7, 7, 6, 5, 5, 7, 6, 4, 8, 7, 2, 9, 5, 3, 7, 8, 3, 2, 9, 8, 4, 9, 9, 5, 0, 5, 8, 2, 7, 8, 5, 9, 5, 8, 0]
+		},
+		"Strip_3":{
+			"Wieght":[],
+			"Reel":[1, 6, 5, 9, 6, 1, 8, 0, 7, 1, 7, 4, 9, 1, 7, 5, 9, 1, 6, 7, 9, 6, 9, 1, 9, 8, 1, 5, 7, 1, 8, 2, 9, 1, 3, 6, 8, 6, 1, 9, 7, 9, 1, 8, 9, 1, 4, 7]
+		},
+		"Strip_4":{
+			"Wieght":[],
+			"Reel":[0, 8, 6, 9, 1, 9, 7, 8, 8, 6, 4, 0, 9, 8, 5, 6, 6, 6, 9, 1, 7, 6, 7, 8, 4, 6, 6, 4, 9, 9, 7, 5, 7, 9, 6, 5, 9, 9, 6, 5, 5, 9, 8, 4, 1, 5, 3, 2]
+		},
+		"Strip_5":{
+			"Wieght":[],
+			"Reel":[6, 6, 4, 3, 3, 8, 5, 8, 4, 4, 8, 0, 4, 8, 1, 5, 6, 6, 8, 6, 4, 5, 6, 6, 6, 8, 7, 4, 5, 4, 9, 5, 5, 8, 6, 6, 4, 6, 5, 5, 5, 4, 6, 1, 5, 7, 2, 9]
+		}
+  },
+
+    "Icons": {
+        "Icon1": {
+            "IconID": 0,
+            "IsWildSubstitute": false,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 1,
+            "IconPays": [
+                0,
+                10,
+                500,
+                3000,
+                10000
+            ]
+        },
+        "Icon2": {
+            "IconID": 1,
+            "IsWildSubstitute": false,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 6,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "Icon3": {
+            "IconID": 2,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                2,
+                50,
+                500,
+                3000
+            ]
+        },
+        "Icon4": {
+            "IconID": 3,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                2,
+                50,
+                200,
+                1500
+            ]
+        },
+        "Icon5": {
+            "IconID": 4,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                10,
+                60,
+                200
+            ]
+        },
+        "Icon6": {
+            "IconID": 5,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                10,
+                60,
+                200
+            ]
+        },
+        "Icon7": {
+            "IconID": 6,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                10,
+                30,
+                150
+            ]
+        },
+        "Icon8": {
+            "IconID": 7,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                10,
+                30,
+                150
+            ]
+        },
+        "Icon9": {
+            "IconID": 8,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                5,
+                30,
+                125
+            ]
+        },
+        "Icon10": {
+            "IconID": 9,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                5,
+                10,
+                125
+            ]
+        },
+        "Icon11": {
+            "IconID": 10,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "Icon12": {
+            "IconID": 11,
+            "IsWildSubstitute": true,
+
+            "BonusID": "",
+            "BonusTimes": [],
+            "PayType": 0,
+            "MultiplierType": 1,
+            "MultiplierAcc": 0,
+            "MultiplierWin": [ 1 ],
+            "MultiplierWeight": [ 1 ],
+            "WildType": 0,
+            "IconPays": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+	"SpecialRule":{		
+		"RandomWildSet":{
+					"row": 3,
+					"RandomWildPos":{
+						"RandomWildPos_1":{
+							"Pos": [16,16,16],
+							"Weight":2250
+						},
+						"RandomWildPos_2":{
+							"Pos":[8,8,8],
+							"Weight":2928
+						},
+						"RandomWildPos_3":{
+							"Pos":[4,4,4],
+							"Weight":2900
+						},
+						"RandomWildPos_4":{
+							"Pos":[2,2,2],
+							"Weight":3000
+						},
+						"RandomWildPos_5":{
+							"Pos":[1,1,1],
+							"Weight":3230
+						},
+						"RandomWildPos_6":{
+							"Pos":[24,24,24],
+							"Weight":840
+						},
+						"RandomWildPos_7":{
+							"Pos": [20,20,20],
+							"Weight":969
+						},
+						"RandomWildPos_8":{
+							"Pos":[18,18,18],
+							"Weight":1342
+						},
+						"RandomWildPos_9":{
+							"Pos":[17,17,17],
+							"Weight":1560
+						},
+						"RandomWildPos_10":{
+							"Pos":[12,12,12],
+							"Weight":1050
+						},
+						"RandomWildPos_11":{
+							"Pos": [10,10,10],
+							"Weight":1779
+						},
+						"RandomWildPos_12":{
+							"Pos":[9,9,9],
+							"Weight":1963
+						},
+						"RandomWildPos_13":{
+							"Pos":[6,6,6],
+							"Weight":1890
+						},
+						"RandomWildPos_14":{
+							"Pos":[5,5,5],
+							"Weight":1566
+						},
+						"RandomWildPos_15":{
+							"Pos":[3,3,3],
+							"Weight":2000
+						},
+						"RandomWildPos_16":{
+							"Pos":[28,28,28],
+							"Weight":22
+						},
+						"RandomWildPos_17":{
+							"Pos": [26,26,26],
+							"Weight":25
+						},
+						"RandomWildPos_18":{
+							"Pos":[22,22,22],
+							"Weight":24
+						},
+						"RandomWildPos_19":{
+							"Pos":[14,14,14],
+							"Weight":35
+						},
+						"RandomWildPos_20":{
+							"Pos":[25,25,25],
+							"Weight":38
+						},
+						"RandomWildPos_21":{
+							"Pos": [21,21,21],
+							"Weight":32
+						},
+						"RandomWildPos_22":{
+							"Pos":[13,13,13],
+							"Weight":45
+						},
+						"RandomWildPos_23":{
+							"Pos":[19,19,19],
+							"Weight":48
+						},
+						"RandomWildPos_24":{
+							"Pos":[11,11,11],
+							"Weight":50
+						},
+						"RandomWildPos_25":{
+							"Pos":[7,7,7],
+							"Weight":53
+						},
+						"RandomWildPos_26":{
+							"Pos":[30,30,30],
+							"Weight":5
+						},
+						"RandomWildPos_27":{
+							"Pos": [29,29,29],
+							"Weight":4
+						},
+						"RandomWildPos_28":{
+							"Pos":[27,27,27],
+							"Weight":4
+						},
+						"RandomWildPos_29":{
+							"Pos":[23,23,23],
+							"Weight":4
+						},
+						"RandomWildPos_30":{
+							"Pos":[15,15,15],
+							"Weight":8
+						},
+						"RandomWildPos_31":{
+							"Pos":[31,31,31],
+							"Weight":3
+						}										
+					}									
+				}
+	
+	}
+  
+}
